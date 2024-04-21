@@ -5,6 +5,11 @@
     font-family: Poppins;
 }
 
+body {
+    
+    background: linear-gradient(to right, pink 40%, rgb(228, 200, 200) 45%, white 70%);
+}
+
 main {
     display: flex;
     margin: 10% 20%;
